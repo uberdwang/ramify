@@ -65,7 +65,7 @@ hr {
 .title {
   padding: 5px;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 36px;
 }
 
 .btn-xlarge {
@@ -983,6 +983,14 @@ a.accordion-toggle  i{
 }
 
 .contact-info{
+  color:#fff;
+}
+
+.contact-info a{
+  color:#000;
+}
+
+.contact-info a:hover{
   color:#fff;
 }
 
