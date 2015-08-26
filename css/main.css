@@ -986,6 +986,14 @@ a.accordion-toggle  i{
   color:#fff;
 }
 
+.contact-info a{
+  color:#000;
+}
+
+.contact-info a:hover{
+  color:#fff;
+}
+
 /*************************
 ********* About Us Page CSS ******
 **************************/
